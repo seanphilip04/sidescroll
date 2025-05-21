@@ -302,9 +302,9 @@ TextureImporter:
       name: blacknwhite_p=1_3
       rect:
         serializedVersion: 2
-        x: 42
+        x: 40
         y: 53
-        width: 8
+        width: 12
         height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -325,9 +325,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 53
-        y: 59
+        y: 53
         width: 12
-        height: 6
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,10 +390,10 @@ TextureImporter:
       name: blacknwhite_p=1_7
       rect:
         serializedVersion: 2
-        x: 94
-        y: 54
-        width: 8
-        height: 8
+        x: 92
+        y: 53
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -412,10 +412,10 @@ TextureImporter:
       name: blacknwhite_p=1_8
       rect:
         serializedVersion: 2
-        x: 107
-        y: 55
-        width: 8
-        height: 8
+        x: 105
+        y: 53
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -502,7 +502,7 @@ TextureImporter:
         serializedVersion: 2
         x: 40
         y: 40
-        width: 11
+        width: 12
         height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -522,9 +522,9 @@ TextureImporter:
       name: blacknwhite_p=1_13
       rect:
         serializedVersion: 2
-        x: 54
+        x: 53
         y: 40
-        width: 11
+        width: 12
         height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -588,10 +588,10 @@ TextureImporter:
       name: blacknwhite_p=1_16
       rect:
         serializedVersion: 2
-        x: 94
-        y: 41
-        width: 8
-        height: 10
+        x: 92
+        y: 40
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -610,10 +610,10 @@ TextureImporter:
       name: blacknwhite_p=1_17
       rect:
         serializedVersion: 2
-        x: 106
-        y: 41
-        width: 9
-        height: 11
+        x: 105
+        y: 40
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -698,10 +698,10 @@ TextureImporter:
       name: blacknwhite_p=1_21
       rect:
         serializedVersion: 2
-        x: 43
-        y: 29
-        width: 7
-        height: 8
+        x: 40
+        y: 27
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -720,10 +720,10 @@ TextureImporter:
       name: blacknwhite_p=1_22
       rect:
         serializedVersion: 2
-        x: 55
-        y: 30
-        width: 8
-        height: 7
+        x: 53
+        y: 27
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -742,10 +742,10 @@ TextureImporter:
       name: blacknwhite_p=1_23
       rect:
         serializedVersion: 2
-        x: 69
-        y: 29
-        width: 7
-        height: 8
+        x: 66
+        y: 27
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -764,10 +764,10 @@ TextureImporter:
       name: blacknwhite_p=1_24
       rect:
         serializedVersion: 2
-        x: 81
-        y: 30
-        width: 8
-        height: 7
+        x: 79
+        y: 27
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -787,9 +787,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 92
-        y: 14
+        y: 27
         width: 12
-        height: 20
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -808,10 +808,10 @@ TextureImporter:
       name: blacknwhite_p=1_26
       rect:
         serializedVersion: 2
-        x: 106
-        y: 28
-        width: 9
-        height: 11
+        x: 105
+        y: 27
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -830,10 +830,10 @@ TextureImporter:
       name: blacknwhite_p=1_27
       rect:
         serializedVersion: 2
-        x: 3
-        y: 16
-        width: 8
-        height: 8
+        x: 1
+        y: 14
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -852,10 +852,10 @@ TextureImporter:
       name: blacknwhite_p=1_28
       rect:
         serializedVersion: 2
-        x: 17
-        y: 16
-        width: 6
-        height: 8
+        x: 14
+        y: 14
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -874,10 +874,10 @@ TextureImporter:
       name: blacknwhite_p=1_29
       rect:
         serializedVersion: 2
-        x: 31
-        y: 16
-        width: 4
-        height: 8
+        x: 27
+        y: 14
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -896,10 +896,10 @@ TextureImporter:
       name: blacknwhite_p=1_30
       rect:
         serializedVersion: 2
-        x: 43
-        y: 16
-        width: 6
-        height: 8
+        x: 40
+        y: 14
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -918,10 +918,10 @@ TextureImporter:
       name: blacknwhite_p=1_31
       rect:
         serializedVersion: 2
-        x: 55
-        y: 16
-        width: 8
-        height: 8
+        x: 53
+        y: 14
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -940,10 +940,10 @@ TextureImporter:
       name: blacknwhite_p=1_32
       rect:
         serializedVersion: 2
-        x: 68
-        y: 16
-        width: 8
-        height: 8
+        x: 66
+        y: 14
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -962,10 +962,10 @@ TextureImporter:
       name: blacknwhite_p=1_33
       rect:
         serializedVersion: 2
-        x: 80
-        y: 15
-        width: 10
-        height: 10
+        x: 79
+        y: 14
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -984,9 +984,9 @@ TextureImporter:
       name: blacknwhite_p=1_34
       rect:
         serializedVersion: 2
-        x: 95
+        x: 92
         y: 14
-        width: 22
+        width: 12
         height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1006,8 +1006,8 @@ TextureImporter:
       name: blacknwhite_p=1_35
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1
+        x: 105
+        y: 14
         width: 12
         height: 12
       alignment: 0
@@ -1028,10 +1028,10 @@ TextureImporter:
       name: blacknwhite_p=1_36
       rect:
         serializedVersion: 2
-        x: 15
-        y: 2
-        width: 9
-        height: 10
+        x: 1
+        y: 1
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1050,10 +1050,10 @@ TextureImporter:
       name: blacknwhite_p=1_37
       rect:
         serializedVersion: 2
-        x: 28
-        y: 2
-        width: 9
-        height: 10
+        x: 14
+        y: 1
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1072,10 +1072,10 @@ TextureImporter:
       name: blacknwhite_p=1_38
       rect:
         serializedVersion: 2
-        x: 41
-        y: 2
-        width: 9
-        height: 10
+        x: 27
+        y: 1
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1094,9 +1094,9 @@ TextureImporter:
       name: blacknwhite_p=1_39
       rect:
         serializedVersion: 2
-        x: 57
+        x: 40
         y: 1
-        width: 4
+        width: 12
         height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1116,7 +1116,7 @@ TextureImporter:
       name: blacknwhite_p=1_40
       rect:
         serializedVersion: 2
-        x: 66
+        x: 53
         y: 1
         width: 12
         height: 12
@@ -1130,6 +1130,28 @@ TextureImporter:
       bones: []
       spriteID: 1c4ed7c4bd4270770800000000000000
       internalID: 8576864539650155713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacknwhite_p=1_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f4459b572098047ba314c46c64c615
+      internalID: -134654993
       vertices: []
       indices: 
       edges: []
@@ -1184,6 +1206,7 @@ TextureImporter:
       blacknwhite_p=1_39: 4630155588733284224
       blacknwhite_p=1_4: -6714102479643258407
       blacknwhite_p=1_40: 8576864539650155713
+      blacknwhite_p=1_41: -134654993
       blacknwhite_p=1_5: -3019413559355515287
       blacknwhite_p=1_6: -1803312239797156908
       blacknwhite_p=1_7: -6141453257342374777
